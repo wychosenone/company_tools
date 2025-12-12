@@ -1,0 +1,8 @@
+{
+  "name": "business-workflows",
+  "description": "Business workflow tools: ticket creation, status reports",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Company"
+  }
+}

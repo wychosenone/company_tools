@@ -1,0 +1,18 @@
+{
+  "name": "company-plugins",
+  "owner": {
+    "name": "Your Company"
+  },
+  "plugins": [
+    {
+      "name": "dev-tools",
+      "source": "./dev-tools",
+      "description": "Development tools: code review, PR templates"
+    },
+    {
+      "name": "business-workflows",
+      "source": "./business-workflows",
+      "description": "Business workflows: tickets, status reports"
+    }
+  ]
+}
