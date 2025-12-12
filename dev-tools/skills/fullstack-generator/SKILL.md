@@ -1,6 +1,6 @@
 ---
 name: fullstack-generator
-description: Full-stack project generator. Use when users want to create a new web application, generate a full-stack project, scaffold a new app, or build a complete frontend + backend project. Generates production-ready code with authentication, database, API, and Docker support.
+description: Full-stack project generator. Use when users want to create any application, app, website, or system with features like user login, authentication, CRUD operations, or data management. Triggers on phrases like "create a blog", "build a todo app", "make a task manager", "build an e-commerce site", "create a chat app", or any request to build a working application. This skill generates Node.js + React + TypeScript + PostgreSQL projects with Docker.
 ---
 
 # Full-Stack Project Generator
@@ -21,6 +21,7 @@ Activate this skill when users:
 - Want to "build a web application"
 - Request "full-stack" or "frontend + backend"
 - Describe an app idea and expect working code
+- Say things like "create a blog", "build a todo app", "make a task manager"
 
 ## Generation Process
 
