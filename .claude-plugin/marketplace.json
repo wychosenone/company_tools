@@ -7,12 +7,21 @@
     {
       "name": "dev-tools",
       "source": "./dev-tools",
-      "description": "Development tools: code review, PR templates"
+      "description": "Development tools: code review, PR templates, fullstack generator",
+      "skills": [
+        "./dev-tools/skills/code-review",
+        "./dev-tools/skills/fullstack-generator",
+        "./dev-tools/skills/pr-template"
+      ]
     },
     {
       "name": "business-workflows",
       "source": "./business-workflows",
-      "description": "Business workflows: tickets, status reports"
+      "description": "Business workflows: tickets, status reports",
+      "skills": [
+        "./business-workflows/skills/status-report",
+        "./business-workflows/skills/ticket-creator"
+      ]
     }
   ]
 }
