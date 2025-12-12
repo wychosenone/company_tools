@@ -6,8 +6,8 @@
   "plugins": [
     {
       "name": "dev-tools",
-      "source": "./dev-tools",
       "description": "Development tools: code review, PR templates, fullstack generator",
+      "source": "./",
       "skills": [
         "./dev-tools/skills/code-review",
         "./dev-tools/skills/fullstack-generator",
@@ -16,8 +16,8 @@
     },
     {
       "name": "business-workflows",
-      "source": "./business-workflows",
       "description": "Business workflows: tickets, status reports",
+      "source": "./",
       "skills": [
         "./business-workflows/skills/status-report",
         "./business-workflows/skills/ticket-creator"
