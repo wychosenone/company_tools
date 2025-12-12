@@ -9,7 +9,7 @@
       "description": "Development tools: code review, PR templates, fullstack generator",
       "source": "./",
       "skills": [
-        "./dev-tools/skills/code-review",
+        "./dev-tools/skills/company-code-review",
         "./dev-tools/skills/fullstack-generator",
         "./dev-tools/skills/pr-template"
       ]

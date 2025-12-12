@@ -1,5 +1,5 @@
 ---
-name: code-review
+name: company-code-review
 description: Code review assistant. Use when users request code review, check code quality, review PR, or ask to review code. Provides professional code review feedback covering security, performance, readability, and best practices.
 ---
 
